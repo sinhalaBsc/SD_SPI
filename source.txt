@@ -1,0 +1,12 @@
+
+https://www.microchip.com/forums/m530149.aspx
+
+cmd
+http://www.chlazza.net/sdcardinfo.html
+
+code
+http://nerdclub-uk.blogspot.com/2012/11/how-spi-works-with-sd-card.html
+
+
+number convert
+http://calc.50x.eu/
